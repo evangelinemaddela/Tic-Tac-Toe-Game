@@ -25,12 +25,10 @@ python Tic_Tac_Toe.py
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/tictactoe.gif" width=70% height=70%>
 
 ## 🤖 Author
-[Leah Nguyen](https://github.com/ndleah)
+[Evangeline_Maddela](https://github.com/evangelinemaddela)
 
-## 📜 License
-This project is licensed under the MIT License
 
 ## 📝 Acknowledgments
 - [Python](https://www.python.org/)
 - [VS Code](https://code.visualstudio.com/)
-- [GitHub](https://github.com/ndleah/python-mini-project)
+- [GitHub](https://github.com/evangelinemaddela)
